@@ -1,3 +1,12 @@
+/* *******************************************************************
+Plane game created using the Phaser.js library. By John DeHart, 2020
+TODO: add life/ammo pickups? add an ammo counter? fix the animation
+when the player respawns (to have it come from off screen, rather than
+appearing on the screen and moving forward slowly).
+You can put this game on your own website, as long as I'm credited
+and my website is linked: dehart.dev
+********************************************************************** */
+
 var config = {
     //type: Phaser.AUTO,
     width: 1300,								//width/height of the game area
